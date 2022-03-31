@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FEED THE BEAST SHOP</string>
+    <string name="developer">developer</string>
+    <string name="fio">Uladzislau Neuhen 951005</string>
+    <string name="taskNum">LAB 2</string>
+    <string name="user">User</string>
+    <string name="date">date</string>
+    <string name="dogsFood">dogs(0)</string>
+    <string name="catsFood">cats(0)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">home fragment</string>
+    <string name="settings_fragment">settings fragment</string>
+    <string name="achievement_fragment">achievement fragment</string>
+    <string name="explore">EXPLORE</string>
+    <string name="profile">profile</string>
+    <string name="kris8an">#kris8an</string>
+    <string name="name_surname">Kristian Grippo</string>
+    <string name="search_hint">search</string>
+</resources>
